@@ -73,7 +73,7 @@ git clone https://github.com/udacity/deep-reinforcement-learning.git
 3. Clone this repository, replace requirements.txt in dlr repository file with requirements.txt file from this repository. (To fix Dependency issues for Tensorflow, Torch, ...)
 Then install dependencies.
 ```bash
-git clone https://github.com/Python35/drl_p1_navigation.git
+git clone https://github.com/luctrate/p2_continuous-control.git
 cp drl_p1_navigation/requirements.txt deep-reinforcement-learning/python/requirements.txt 
 cd deep-reinforcement-learning/python/
 pip install .
