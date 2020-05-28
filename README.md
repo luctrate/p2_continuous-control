@@ -104,5 +104,5 @@ ________________________________________________________________________________
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to use the trained agent or train the agent from sratch.  
+Follow the instructions in `Continuous_Control.ipynb` to use the trained agent or train the agent from sratch.  
 
