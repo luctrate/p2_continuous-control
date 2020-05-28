@@ -74,7 +74,7 @@ git clone https://github.com/udacity/deep-reinforcement-learning.git
 Then install dependencies.
 ```bash
 git clone https://github.com/luctrate/p2_continuous-control.git
-cp drl_p1_navigation/requirements.txt deep-reinforcement-learning/python/requirements.txt 
+cp p2_continuous-control/requirements.txt deep-reinforcement-learning/python/requirements.txt 
 cd deep-reinforcement-learning/python/
 pip install .
 ```
@@ -82,7 +82,7 @@ pip install .
 4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `drlnd` environment and then change directory o this repository.  
 ```bash
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
-cd ../../drl_p1_navigation/
+cd ../../p2_continuous-control/
 ```
 
 5. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
